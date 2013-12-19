@@ -2,7 +2,9 @@ Anechoic Recordings (plus BRIRs) of FH Köln
 ===========================================
 
 Cologne University of Applied Sciences
+
 Institute of Communication Systems
+
 Laboratory for Acoustics, Audio Technology and Audio Signal Processing
 
 License: Creative Commons Attribution ShareAlike
