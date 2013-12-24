@@ -22,3 +22,5 @@ The scene "external_reverb.asd" contains dry audio signals and an external rever
 "Reverb.ogg" with 5 channels of reverberation.
 
 The scene "integrated_reverb.asd" contains sound signals including reverberation.
+
+The reverberation was done with the Lexicon 960L reverb processor with the setting "Tunnel".
